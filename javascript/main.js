@@ -1,0 +1,19 @@
+// * GLOBAL VARIABLES
+
+
+
+
+
+// * STATE MANAGEMENT FUNCTIONS
+
+
+
+
+
+
+// * ADD EVENT LISTENERS
+
+
+
+
+
