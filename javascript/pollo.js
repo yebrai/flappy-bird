@@ -9,10 +9,16 @@ class Pollo {
     this.h = 35; //alto
     this.gravity = 1;
     this.jump = 40;
+    // this.isJumping = false
   }
   //pollo caiga gravedad
   gravityPollo = () => {
     this.y = this.y + this.gravity;
+    // if(this.isJumping = true) {
+    //   this.y = this.y -this.speed
+    // } else {
+    //   this.y =this.y + this.speed
+    // }
   };
   // salto del pollo
   //metodos o acciones del pollo
