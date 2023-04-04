@@ -13,7 +13,7 @@ class Tubo {
     this.y = yParam;
     this.w = 50;
     this.h = 250;
-    this.speed = 1
+    this.speed = 3
   }
 
   //methodos o acciones de cada tubo
